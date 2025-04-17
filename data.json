@@ -1,0 +1,275 @@
+[
+    {
+      "id": 1,
+      "title": "Forever & Always Bouquet",
+      "description": "Our Forever Bouquet features stunningly Ecuadorian Roses embraced in Misty filler flowers and Eucalyptus foliage wrapped in a dainty newspaper style design.This is the perfect bouquet to show your your love and affection for that special someone.Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 500,
+      "images": [
+        "./images/cflower1.webp",
+        "./images/cflower2.webp",
+        "./images/cflower3.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ecuadorian Rose Bouquet",
+      "description": "Nothing says 'I love you' best than with our luxurious and premium Ecuadorian roses. Originating from Ecuador, these roses have a large bud size that will ultimately make your recipient fall in love. Embraced with dried Baby's Breath flowers as fillers.Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Fillers and foliage may vary according to seasonality and availability. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.If you have wrap color preferences, please let us know your preferred color.",
+      "category": "Classic Bouquets",
+      "price": 600,
+      "images": [
+        "./images/cflower4.webp",
+        "./images/cflower5.webp",
+        "./images/cflower6.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Peony Bouquet (Single Stem)",
+      "description": "Considered as the queen of all flowers, a single stem of pink Peony can definitely make your recipient feel loved and appreciated. Please note that peonies may come in BUD FORM and may not look exactly similar in the same photo but ensures a longer vase life. Peony sizes may vary depending on the season. We do our best to source the best blooms for our clients. However, no guarantees on the exact bloom size. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 600,
+      "images": ["./images/cflower7.webp", "./images/cflower8.webp"]
+    },
+    {
+      "id": 4,
+      "title": "Regular Carnation Bouquet",
+      "description": "Dainty and sweet, our regular Carnation Bouquet is the perfect surprise just because.Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Fillers and foliage may vary according to seasonality and availability. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.If you have wrap color preferences, please let us know your preferred color.",
+      "category": "Classic Bouquets",
+      "price": 550,
+      "images": [
+        "./images/cflower9.webp",
+        "./images/cflower10.webp",
+        "./images/cflower11.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Sunflower Bouquet",
+      "description": "Sunflowers may vary in size. Large Sunflower blooms are not guaranteed as it depends on supply and climate, but rest assured we try our best to source the prettiest one out there!Known as happy flowers, our Sunflower Bouquet can instantly cheer up and make your loved one happy!Please note that arrangements and wrap color may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 1000,
+      "images": [
+        "./images/cflower12.webp",
+        "./images/cflower13.webp",
+        "./images/cflower14.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Hydrangea Bouquet (Locally Grown)",
+      "description": "The hydrangea represents gratitude, grace and beauty. It also radiates abundance because of the lavish number of flowers and the generous round shape. Its colours symbolise love, harmony and peace.Our Hydrangea Bouquet (locally grown) consists of 3-5 stalks of Hydrangeas.Please note that arrangements and wrap color may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 800,
+      "images": ["./images/cflower15.webp"]
+    },
+    {
+      "id": 7,
+      "title": "Sabrina Boxed Blooms",
+      "description": "Express your love in a million ways through our Sabrina Boxed Blooms which features million star flowers, also known as Baby's Breath. This arrangement is also dry-able, which means you can let the arrangement dry out and still look beautiful as is.Please note that arrangements and wrap color may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 1200,
+      "images": [
+        "./images/cflower16.webp",
+        "./images/cflower17.webp",
+        "./images/cflower18.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Bella Boxed Blooms",
+      "description": "Chic yet elegant, our Bella Boxed Blooms gives a twist to our classic Ecuadorian Rose arrangement! Featuring Ecuadorian Roses pristinely-arranged in our signature pink box.Please note that arrangements and wrap color may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 1200,
+      "images": [
+        "./images/cflower19.webp",
+        "./images/cflower20.webp",
+        "./images/cflower21.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Guardian Angel Sympathy Basket",
+      "description": "Basket arrangement for the angels who surround us. Perfect for showing your deepest condolences and sympathy.Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 600,
+      "images": ["./images/cflower22.webp"]
+    },
+    {
+      "id": 10,
+      "title": "Remember Me Sympathy Basket",
+      "description": "Beautiful floral basket arrangement for the angels who surround us everyday. Perfect for showing sympathy and condolences.Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Classic Bouquets",
+      "price": 700,
+      "images": ["./images/cflower23.webp"]
+    },
+    {
+      "id": 11,
+      "title": "Dahlia Dried Flower Bouquet",
+      "description": "Dahlia is our elegant preserved rose mini dried flower bouquet in the classic red, green, and ecru tones. Our dried flower bouquet lasts 1-3 years depending on care and maintenance.Measures approximately 30-35cm in height. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers or wrap colors are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Bouquets",
+      "price": 600,
+      "images": [
+        "./images/dflower1.webp",
+        "./images/dflower2.webp",
+        "./images/dflower3.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Juno Dried Flower Bouquet",
+      "description": "Juno Dried Flower Bouquet is specially arranged in various shades of blues.Measures approximately 30-40 cm in height.Arrangements are uniquely handcrafted and may not look 100% exactly identical to the photos provided. Wrappers and flower substitutes, if necessary, will be carefully selected to maintain the bouquet's elegance and quality.Our dried and preserved flower arrangements are meant to last for 1-3 years depending on care, maintenance, and the environment it is displayed in.",
+      "category": "Dried Flower Bouquets",
+      "price": 700,
+      "images": ["./images/dflower4.webp"]
+    },
+    {
+      "id": 13,
+      "title": "Candice Dried Flower Bouquet",
+      "description": "Candice is our cotton-candy theme mini dried flower bouquet in pastel pink and blue hues.Measures approximately 35-40cm in heightPlease note that arrangements and wrap color may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Bouquets",
+      "price": 800,
+      "images": ["./images/dflower5.webp", "./images/dflower6.webp"]
+    },
+    {
+      "id": 14,
+      "title": "Lover Dried Flower Bouquet",
+      "description": "Inspired by Taylor Swift's hit song 'Lover', Lover Dried Flower Bouquet is specially arranged in various shades of pinks to convey how feeling in love is like. Our dried and preserved flower arrangements are meant to last for 1-3 years depending on care, maintenance, and the environment it is displayed in. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Bouquets",
+      "price": 800,
+      "images": [
+        "./images/dflower7.webp",
+        "./images/dflower8.webp",
+        "./images/dflower9.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Mauve Dried Flower Bouquet",
+      "description": "Make her swoon with our Mauve Bouquet featuring elegant dried flowers in purple and mauve tones with a purple preserved rose.Measures approximately 30-35cm in height. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Bouquets",
+      "price": 500,
+      "images": ["./images/dflower10.webp", "./images/dflower11.webp"]
+    },
+    {
+      "id": 16,
+      "title": "Khaki Mini Dried Flower Bouquet",
+      "description": "Khaki is our neutral and earthy mini dried flower bouquet in featuring a white preserved rose.  Measures approximately 35-40cm in height. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Bouquets",
+      "price": 500,
+      "images": ["./images/dflower12.webp", "./images/dflower13.webp"]
+    },
+    {
+      "id": 17,
+      "title": "Forevermore Mini Bouquet",
+      "description": "Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain flowers are unavailable on the day of delivery, we reserve the right to replace with a suitable alternative of equal quality, without prior notice.",
+      "category": "Dried Flower Bouquets",
+      "price": 550,
+      "images": ["./images/dflower14.webp"]
+    },
+    {
+      "id": 18,
+      "title": "Preserved Eucalyptus Bundle",
+      "description": "Bring the fresh and soothing scents of nature into your home with our premium dried Eucalyptus bundle! Perfect to display in your bathroom, bedroom, or living space to create a calming and minimalist vibe. Dried flowers last 1-3 years depending on care and maintenance.",
+      "category": "Dried Flower Bouquets",
+      "price": 750,
+      "images": ["./images/dflower15.webp"]
+    },
+    {
+      "id": 19,
+      "title": "Dried Lavender Bundle",
+      "description": "Bring the fields of Provence, France to your homes through our premium dried Lavender bundle! Perfect to display on your bedside table or living room area for that relaxed and calm vibes. Dried flowers last 1-3 years depending on care and maintenance.",
+      "category": "Dried Flower Bouquets",
+      "price": 750,
+      "images": ["./images/dflower16.webp", "./images/dflower17.webp"]
+    },
+    {
+      "id": 20,
+      "title": "Dried Baby's Breath Bundle",
+      "description": "Bring timeless elegance to your home with our premium dried Baby’s Breath bundle! Perfect for adding a delicate and romantic touch to your bedside table, vanity, or living room décor. Bundle includes 8-10 stems. Dried flowers last 1-3 years depending on care and maintenance.",
+      "category": "Dried Flower Bouquets",
+      "price": 650,
+      "images": ["./images/dflower18.jpg"]
+    },
+    {
+      "id": 21,
+      "title": "Heather Dried Flower Pot",
+      "description": "Heather is our dried flower arrangement in ceramic pot that evoke romantic feelings through pink and pastel coral hues. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 900,
+      "images": ["./images/pflower1.webp"]
+    },
+    {
+      "id": 22,
+      "title": "Pamela Dried Flower Pot",
+      "description": "Pamela features dried flowers in regal purple tones. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 850,
+      "images": ["./images/pflower2.webp", "./images/pflower3.webp"]
+    },
+    {
+      "id": 23,
+      "title": "Blair Dried Flower Pot",
+      "description": "Blair features pastel pink and blue hues, sweet like cotton candy. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 1000,
+      "images": ["./images/pflower4.webp"]
+    },
+    {
+      "id": 24,
+      "title": "Portia Dried Flower Pot",
+      "description": "Make her feel loved and appreciated through our elegant Portia dried flower pot arrangement, made to last for 1-2 years. [No Mother's Day gold topper.] Measures approximately 23cm H x 11cm L , Our dried and preserved flower arrangements are meant to last for 1-3 years depending on care, maintenance, and the environment it is displayed in. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 1100,
+      "images": ["./images/pflower5.webp", "./images/pflower6.webp"]
+    },
+    {
+      "id": 25,
+      "title": "Dove Dried Flower Arrangement",
+      "description": "Dried floral arrangement featuring a preserved white rose in amber bottle vase. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain flowers are unavailable on the day of delivery, we reserve the right to replace with a suitable alternative of equal quality, without prior notice.",
+      "category": "Dried Flower Pots",
+      "price": 1200,
+      "images": ["./images/pflower7.webp", "./images/pflower8.webp"]
+    },
+    {
+      "id": 26,
+      "title": "Serena Dried Flower Pot",
+      "description": "Serena features dried flowers in a stunning combination of blue and coral tones. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 1500,
+      "images": ["./images/pflower9.webp", "./images/pflower10.webp"]
+    },
+    {
+      "id": 27,
+      "title": "Iris Dried Flower Pot",
+      "description": "Featuring a colorful arrangement, our Iris Dried Flower Arrangement is perfect for ladies who love color. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 1200,
+      "images": ["./images/pflower11.webp"]
+    },
+    {
+      "id": 28,
+      "title": "Dried Flower Box with Money Pull",
+      "description": "What better way to surprise them with blooms and some cash? Our Dried Flower Arrangement with Money Pull will surely surprise them!  You may customize the color palette of the dried flower arrangement. Money pull can fit exactly 20 pieces of bills. Base price of the dried flower arrangement is Php",
+      "category": "Dried Flower Pots",
+      "price": 1100,
+      "images": ["./images/pflower12.webp", "./images/pflower13.webp"]
+    },
+    {
+      "id": 29,
+      "title": "Eve Dried Flower Pot",
+      "description": "Eve is a simple yet stunning arrangement of dried flowers in blue, purple, and pink hues. Dried flowers may last 1-3 years depending on care and maintenance. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. If certain dried flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 1500,
+      "images": ["./images/pflower14.webp"]
+    },
+    {
+      "id": 30,
+      "title": "Mini Fleurs Acrylique",
+      "description": "Our Mini Fleurs Acrylique features a single preserve rose in an acrylic box. Perfect to display on a bedside table to remind your loved one how special they are. Preserved roses may last 1-3 years depending on care and maintenance. Please note that arrangements may not look exactly 100% similar from photos as they are only for visualization guide purposes. Each arrangement is unique and hand-made with utmost care. Wrappers may come in different color from the sample photo. If certain fresh flowers are unavailable on the day of delivery, we will replace with a suitable alternative of equal quality.",
+      "category": "Dried Flower Pots",
+      "price": 975,
+      "images": ["./images/pflower15.webp", "./images/pflower15.webp"]
+    }
+  
+  ]
