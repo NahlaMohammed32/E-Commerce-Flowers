@@ -1,6 +1,6 @@
 window.onload=function(){
     if(localStorage.getItem("login")!="active"){
-      window.location.href="login.html"
+      window.location.href="index.html"
     }
     }
     
@@ -13,7 +13,7 @@ window.onload=function(){
       localStorage.removeItem("selectedProductId")
       localStorage.setItem("login","inactive")
       sessionStorage.clear();
-      window.location.href='login.html'
+      window.location.href='index.html'
     }
     
     // ==============================================================

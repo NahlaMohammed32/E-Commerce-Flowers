@@ -2,7 +2,7 @@ if (localStorage.getItem("login")!="active") {
     (function () {
         window.history.pushState(null, null, window.location.href);
         window.onpopstate = function () {
-            window.location.href = 'login.html'; // Redirect to login page
+            window.location.href = 'index.html'; // Redirect to login page
         };
     })();
 }
